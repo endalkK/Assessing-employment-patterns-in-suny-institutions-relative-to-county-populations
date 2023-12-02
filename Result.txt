@@ -1,0 +1,14 @@
+The main objective of our project is to determine whether the rate of employe employment in SUNY Colleges is directly/indirectly proportional to the rate of population in New York County.
+
+Using different scoring algorithms, we will be able deduce if the increased/decreased rate of population in New York County is increasing/decreasing the rate of employment in SUNY schools.
+
+Therefore, our project tries to see if there is a correlation between New York's population to all SUNY colleges employe enrolment. 
+
+Does the increase in No.of population increase or decrease the No.of employment? is our project question.
+
+The two data sets we are using for the project: 
+State University of New York (SUNY) Employees By Employment Status: Beginning Fall 2011 | State of New York , this is the database we are using for employees in SUNY schools.
+
+New York State Population Data: Beginning 2003 | State of New York (ny.gov), this the database we are using for population in New York county particular of race.If you would like to know more about our project folllow this link: 
+
+https://docs.google.com/presentation/d/1sgJ1jRHt-9a6Slc9bzmawhpeD_wKOqngP-XmOZimdP0/edit#slide=id.g1a656a221a6_0_5
